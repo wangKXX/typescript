@@ -1,0 +1,14 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "typescript test",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc index.ts --watch"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "wangkai",
+  "license": "ISC"
+}
